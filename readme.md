@@ -1,6 +1,6 @@
 Grader Script
 
-This is a grader script I did a long time ago, 
+This is a script I did a long time ago, 
 it should justify the hardness of a assignment based on whether the mean grade is more than 1 sigma above or below
 the average grade for the whole year.
 
